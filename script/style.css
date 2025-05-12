@@ -1,0 +1,26 @@
+header{
+    width: 100vw;
+    background-color: dimgrey;
+    color: white;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+}
+.year{
+    text-align: center;
+}
+.login-form{
+    text-align: center;
+}
+.singup-form{
+    text-align: center;
+}

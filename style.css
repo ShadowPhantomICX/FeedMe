@@ -1,0 +1,24 @@
+header{
+    width: 100vw;
+    background-color: dimgrey;
+    color: white;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+}
+.year{
+    text-align: center;
+}
+.post{
+    background-color: gainsboro;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
